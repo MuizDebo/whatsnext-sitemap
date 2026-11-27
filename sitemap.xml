@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://whatsnext.buzz/</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://whatsnext.buzz/events</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://whatsnext.buzz/oceanside/events</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://whatsnext.buzz/carlsbad/events</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://whatsnext.buzz/vista/events</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://whatsnext.buzz/san-marcos/events</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://whatsnext.buzz/escondido/events</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://whatsnext.buzz/fallbrook/events</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://whatsnext.buzz/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/events</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/carlsbad/events</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/san-marcos/events</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/escondido/events</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/bonsall/events</loc><lastmod>2026-01-18</lastmod></url>
   <url><loc>https://whatsnext.buzz/westkauaisun</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://whatsnext.buzz/whatsnext</loc><lastmod>2026-10-22</lastmod></url>
@@ -140,8 +140,13 @@
   <url><loc>https://whatsnext.buzz/vista/events/tween-time-3-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/coloring-club-4-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://whatsnext.buzz/san-marcos/events/free-english-class-for-adults-clase-de-ingl-s-gratis-para-adultos-5-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://whatsnext.buzz/carlsbad/events/carlsbad-office-open-house-4-2026-12-01</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/comedy-night-at-privateer-coal-fire-pizza-4-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/trivia-night-best-pizza-brew-oceanside-3-2026-12-01</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/escondido/events/trivia-night-best-pizza-brew-escondido-3-2026-12-01</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/trivia-night-at-south-o-brewery-4-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/trivia-night-the-meantime-3-2026-12-01</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/latin-tuesdays-4-2026-12-01</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/twisted-trivia-at-the-surf-club-4-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/trivia-night-at-mission-ave-bar-and-grill-4-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://whatsnext.buzz/san-marcos/events/small-business-support-office-hours-2026-12-01</loc><lastmod>2026-11-17</lastmod></url>
@@ -307,6 +312,7 @@
   <url><loc>https://whatsnext.buzz/oceanside/events/4th-annual-irish-christmas-w-blindfold-monks-at-pour-house-2026-12-05</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://whatsnext.buzz/escondido/events/watercolor-christmas-cards-workshop-2026-12-05</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/moonry-collective-holiday-open-house-2026-12-05</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/holiday-night-market-at-dear-tomorrow-2026-12-05</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/live-music-at-the-pour-house-8-2026-12-05</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://whatsnext.buzz/san-marcos/events/holiday-market-ev-experiences-2026-12-05</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/christmas-light-show-spectacular-2026-at-calvary-chapel-5-2026-12-05</loc><lastmod>2026-11-18</lastmod></url>
@@ -348,9 +354,11 @@
   <url><loc>https://whatsnext.buzz/vista/events/santa-at-the-boochyard-2026-12-06</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://whatsnext.buzz/escondido/events/artisan-fair-2026-12-06</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://whatsnext.buzz/carlsbad/events/infinote-music-presents-jeff-dewine-friends-2026-12-06</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/holiday-market-and-live-music-2026-12-06</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/live-music-at-coomber-craft-wines-27-2026-12-06</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/holiday-concert-windspring-2026-12-06</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/holiday-wreath-workshop-mellano-farm-stand-oceanside-ca-2026-12-06</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/becoming-the-art-of-unfolding-2026-12-06</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/escondido/events/guided-open-play-escondido-ca-3-2026-12-06</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/north-county-fishermen-s-market-4-2026-12-06</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/screen-your-teen-2026-12-06</loc><lastmod>2026-11-18</lastmod></url>
@@ -403,6 +411,7 @@
   <url><loc>https://whatsnext.buzz/oceanside/events/trivia-night-at-hangar76-5-2026-12-08</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/comedy-night-at-privateer-coal-fire-pizza-5-2026-12-08</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/trivia-night-at-kilowatt-oceanside-5-2026-12-08</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/accelerate-growth-connect-north-county-san-diego-3-2026-12-08</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/escondido/events/find-your-party-barley-sword-escondido-2-2026-12-08</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://whatsnext.buzz/carlsbad/events/happy-blue-marble-new-moon-2026-12-08</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/caribbean-snowman-paint-and-sip-in-san-diego-classpop-2026-12-08</loc><lastmod>2026-11-21</lastmod></url>
@@ -431,6 +440,7 @@
   <url><loc>https://whatsnext.buzz/san-marcos/events/north-county-card-swap-pizza-port-tasting-room-2026-12-08</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/trivia-night-at-tap-that-5-2026-12-09</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/modern-mystics-2026-12-09</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/chanukah-celebration-menorah-lighting-2026-12-09</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/teen-frenzy-2026-12-09</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/craft-sm-rg-sbord-2026-12-09</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/pathways-to-citizenship-tutoring-hour-4-2026-12-09</loc><lastmod>2026-11-21</lastmod></url>
@@ -472,6 +482,7 @@
   <url><loc>https://whatsnext.buzz/oceanside/events/rooftop-yoga-at-cococabana-5-2026-12-10</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/christmas-light-show-spectacular-2026-at-calvary-chapel-10-2026-12-10</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/star-theatre-co-presents-annie-jr-2026-12-10</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/cafecito-latino-networking-en-espanol-north-county-vista-2nd-jueves-dec-2026-12-10</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/escondido/events/16th-annual-community-in-unity-2026-12-10</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://whatsnext.buzz/fallbrook/events/line-dancing-class-8-2026-12-10</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://whatsnext.buzz/fallbrook/events/social-bridge-4-2026-12-10</loc><lastmod>2026-11-23</lastmod></url>
@@ -533,6 +544,10 @@
   <url><loc>https://whatsnext.buzz/oceanside/events/top-gun-house-light-extravaganza-29-2026-12-12</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://whatsnext.buzz/escondido/events/1st-north-county-atc-artists-trading-card-swap-at-colabcrafts-2026-12-12</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://whatsnext.buzz/carlsbad/events/christmas-under-the-stars-2026-12-12</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/2026-quarterly-guild-december-party-ugly-art-white-elephant-potluck-2026-12-12</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/holiday-market-at-ransack-2026-12-12</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/country-christmas-line-dancing-and-live-music-2026-12-12</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/escondido/events/escondido-holiday-festival-2026-12-12</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/child-support-services-2026-12-12</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://whatsnext.buzz/fallbrook/events/i-love-a-clean-san-diego-community-clean-up-2026-12-12</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/boat-rides-with-santa-2026-12-12</loc><lastmod>2026-11-24</lastmod></url>
@@ -560,5 +575,46 @@
   <url><loc>https://whatsnext.buzz/oceanside/events/christmas-experience-2026-12-13</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/misadventure-co-yogabranch-sunday-sip-n-stretch-2026-12-13</loc><lastmod>2026-11-25</lastmod></url>
   <url><loc>https://whatsnext.buzz/vista/events/book-swap-colab-public-house-san-diego-2026-12-13</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/arte-es-vida-posadas-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/wreaths-wine-good-times-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/alias-brass-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/escondido/events/alcohol-ink-ornaments-class-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/escondido/events/floral-resin-tray-workshop-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/a-magical-cirque-christmas-at-frontwave-arena-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/live-music-at-the-jazzy-wishbone-25-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/top-gun-house-light-extravaganza-30-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/christmas-light-show-spectacular-2026-at-calvary-chapel-13-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/star-theatre-co-presents-annie-jr-4-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/live-music-at-coomber-craft-wines-34-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://whatsnext.buzz/oceanside/events/festive-felt-ornaments-2026-12-13</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/epoxy-resin-art-gorgeous-geode-coasters-oceanside-2-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/macrame-christmas-tree-ornaments-2026-12-13</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/pickleball-5-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/exercise-class-13-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/monday-funday-activities-for-adults-w-disabilities-6-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/preschool-playtime-5-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/san-marcos/events/japanese-storytime-6-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/san-marcos/events/west-pace-tabling-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/fit-fab-and-fun-5-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/tai-chi-for-arthritis-and-fall-prevention-11-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/insight-book-club-2-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/san-marcos/events/paws-to-read-2-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/escondido/events/north-county-holiday-cafecito-winestop-business-networking-2nd-monday-dec-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/christmas-light-show-spectacular-2026-at-calvary-chapel-14-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/country-swing-inzane-6-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/live-music-at-coomber-craft-wines-35-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/misadventure-co-industry-night-every-monday-night-6-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/top-gun-house-light-extravaganza-31-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/oceanside/events/sunset-trivia-at-the-belching-beaver-brewery-5-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/just-breathe-5-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/mah-jong-9-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/pinochle-9-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/san-marcos/events/adult-watercolor-class-2-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/carlsbad/events/int-l-cafe-at-pure-project-carlsbad-2-2026-12-14</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/line-dancing-class-9-2026-12-15</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/san-marcos/events/free-english-class-for-adults-clase-de-ingl-s-gratis-para-adultos-9-2026-12-15</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/ged-test-preparation-math-science-10-2026-12-15</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/vista/events/content-clicks-2-2026-12-15</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/fallbrook/events/beginning-line-dancing-class-9-2026-12-15</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://whatsnext.buzz/escondido/events/lunch-bunch-the-grand-tea-room-2026-12-15</loc><lastmod>2026-11-26</lastmod></url>
 </urlset>
